@@ -1,0 +1,6 @@
+../Core/Src/ADC_ITmode.c:73:5:main	80	static
+../Core/Src/ADC_ITmode.c:151:6:SystemClock_Config	88	static
+../Core/Src/ADC_ITmode.c:199:13:MX_ADC1_Init	24	static
+../Core/Src/ADC_ITmode.c:251:13:MX_USART2_UART_Init	8	static
+../Core/Src/ADC_ITmode.c:284:13:MX_GPIO_Init	48	static
+../Core/Src/ADC_ITmode.c:326:6:Error_Handler	4	static,ignoring_inline_asm
